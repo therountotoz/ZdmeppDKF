@@ -21,7 +21,6 @@
 ✔ File previews
 ✔ Generate CAS ids
 ✔ Settings screen
-✔ Job queue system
 ✔ Landing page
 ✔ Volume identification
 ✔ Statistic calucations
@@ -41,7 +40,6 @@
 # Planned features
 ####
 ☐ Action system & command pallete
-☐ Explorer path viewer / editor
 ☐ File encryptor
 ☐ File viewer / player
 ☐ Secret keystore
